@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185942577997",
+    "project_id": "partb-59b85",
+    "storage_bucket": "partb-59b85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185942577997:android:9fc0f5719a35d7a4841d04",
+        "android_client_info": {
+          "package_name": "curtin.edu.ptb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185942577997-kkhfuurcdlcrik7pcerdm3pd3jc0jvbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8jE2pKGWrdrXebHp8O0-5Kp-oGpc7TUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185942577997-kkhfuurcdlcrik7pcerdm3pd3jc0jvbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
